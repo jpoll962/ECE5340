@@ -40,4 +40,7 @@ After the process from the previous step has completed, you have successfully co
 
 To run the code, we are going to continue to use the CLI tools provided by ROS. Follow these steps to run the code:
 
-  1. 
+  1. Source your directory if you haven't already. Type `source devel/setup.bash` and press enter.
+  2. Type: `roslaunch astar go_to_goal.launch` and press enter.
+  3. If you wish to reconfigure the dynamically reconfigurable parameter (look ahead), then type: `rosrun rqt_reconfigure rqt_reconfigure` in another terminal after sourcing your directory in that terminal as well. Whenever you source your directory, always make sure you are in the root directory of your workspace.
+  4. Begin running and manipulating the gui as described in the Final Project Documentation.
