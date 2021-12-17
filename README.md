@@ -3,8 +3,8 @@
 ## How to download the code
 
 All code (excluding dependencies) can be found in my student group folder titled `pollock_joe/ece5345-final-project`. The following links will provide you direct access to the code:
-  * SSH: `git@gitlab.com:utahstate/5345-mobilie-robotics/2021/student_groups/pollock_joe/ece5345-final-project.git`
-  * HTTPS: `https://gitlab.com/utahstate/5345-mobilie-robotics/2021/student_groups/pollock_joe/ece5345-final-project.git`
+  * SSH: `git@gitlab.com:utahstate/5345-mobilie-robotics/2021/student_groups/pollock_joe/final_project.git`
+  * HTTPS: `https://gitlab.com/utahstate/5345-mobilie-robotics/2021/student_groups/pollock_joe/final_project.git`
   
 To download the code, including the dependencies, you may utilize the provided `basic.rosinstall` file and the wstool Command-Line Interface (CLI) tool. If you have not already installed Wstool, click [here](http://wiki.ros.org/wstool "wstool - ROS Wiki") for a tutorial on how to download and set-up Wstool. Once you have downloaded Wstool, you may continue.
 
